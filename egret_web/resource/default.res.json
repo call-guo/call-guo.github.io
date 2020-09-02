@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "description_json,machine_bottom_png,keys_png,keys_down_png,printer_bg_jpg",
+			"keys": "description_json,printer_bg_jpg",
 			"name": "preload"
 		}
 	],
@@ -10,21 +10,6 @@
 			"name": "description_json",
 			"type": "json",
 			"url": "config/description.json"
-		},
-		{
-			"name": "machine_bottom_png",
-			"type": "image",
-			"url": "assets/machine_bottom.png"
-		},
-		{
-			"name": "keys_png",
-			"type": "image",
-			"url": "assets/keys.png"
-		},
-		{
-			"name": "keys_down_png",
-			"type": "image",
-			"url": "assets/keys_down.png"
 		},
 		{
 			"name": "printer_bg_jpg",
